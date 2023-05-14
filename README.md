@@ -8,4 +8,4 @@
 wechat: van-sin
 
 
-Contributor to MMRotate and OpenMMLab Playground
+Contributor to MMRotate and OpenMMLab PlayGround
